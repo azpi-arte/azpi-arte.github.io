@@ -8,11 +8,12 @@ body {
 }
 
 nav a {
+  background-color: #EDFEFF;
   text-decoration: none;
-  color: #EDFEFF;
+  color: #1E2727;
   font-weight: bold;
   border: 1px solid #EDFEFF;
-  border-radius: 10px;
+  border-radius: 20px;
   padding: 10px 20px;
 }
 
