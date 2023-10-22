@@ -1,8 +1,13 @@
 /* style.css */
 /* yay style stuff */
 
-nav {
+body {
   background-color: #2C4041;
+  font-family: Helvetica, sans-serif;
+  color: #EDFEFF;
+}
+
+nav {
 }
 
 ul {
@@ -17,6 +22,6 @@ li {
 
 a {
   text-decoration: none;
-  color: EDFEFF;
+  color: #EDFEFF;
   font-weight: bold;
 }
