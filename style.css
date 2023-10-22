@@ -2,26 +2,27 @@
 /* yay style stuff */
 
 body {
-  background-color: #2C4041;
+  background-color: #1E2727;
   font-family: Helvetica, sans-serif;
   color: #EDFEFF;
 }
 
-nav {
+nav a {
+  text-decoration: none;
+  color: #EDFEFF;
+  font-weight: bold;
+  border: 1px solid #EDFEFF;
+  border-radius: 10px;
+  padding: 10px 20px;
 }
 
-ul {
+nav ul {
   list-style-type: none;
   padding: 0;
   display: flex;
 }
 
-li {
+nav li {
   margin-right: 20px;
 }
 
-a {
-  text-decoration: none;
-  color: #EDFEFF;
-  font-weight: bold;
-}
