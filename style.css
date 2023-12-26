@@ -1,10 +1,74 @@
-/* style.css */
-/* yay style stuff */
-
 body {
-  background-color: #1E2727;
-  font-family: Helvetica, sans-serif;
-  color: #EDFEFF;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing:  2px;
+  color: #ffffff;
+  background-color: rgb(14, 29, 30);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.navBar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  background: linear-gradient(180deg, rgb(9, 25, 24), rgb(22, 49, 42));
+  padding: 10px 0px;
+  letter-spacing:  2px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+.navBarButton {
+  border: 1px solid #EDFEFF;
+  border-radius: 20px;
+  padding: 10px 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  background: linear-gradient(180deg, rgb(9, 12, 12), rgb(22, 49, 42));
+  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+} 
+
+#azpiLogo {
+  margin-left: 20px;
+}
+
+.navBarButton:hover {
+  background: hsl(164,38%,30%)
+}
+
+.navBarButtonCurrent {
+  border: 1px solid #EDFEFF;
+  border-radius: 20px;
+  padding: 10px 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  background: hsl(164,38%,3%) url(cool-pictures\upArrow.png) no-repeat bottom center;
+  background-size: 20px 20px;
+} 
+
+
+.navBarButtonCurrent:hover {
+  background: hsl(164,38%,30%)
+}
+
+.intro {
+  margin: 5px;
+  padding: 15px;
+}
+
+.introWords {
+  font-size: 20px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 0 vh; /* Adjust as needed */
 }
 
 nav a {
