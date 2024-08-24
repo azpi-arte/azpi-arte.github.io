@@ -1,0 +1,14 @@
+.layoutContainer {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+  flex-direction: column;
+}
+
+.bigView {
+  background-color: var(--background-color);
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  overflow: scroll;
+}

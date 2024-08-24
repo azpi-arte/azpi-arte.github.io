@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "Exo";
+  src: url("assets/fonts/Exo/static/Exo-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Exo";
+  src: url("assets/fonts/Exo/static/Exo-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: bold;
+}
+
+:root {
+  --background-color: #161619;
+  --primary-color: #3255d1;
+  --text-primary: #dcd8f2;
+  --text-secondary: #c3c0cf;
+  --outline-color: #42414e;
+  --fs-xl: clamp(3rem, 12vw + 1rem, 12rem);
+  --fs-med: 2rem;
+  --fs-small: 1rem;
+}
+
+body {
+  margin: 0;
+  background-color: var(--background-color);
+
+  color: var(--text-primary);
+  font-family: "Exo", sans-serif;
+  font-size: var(--fs-small);
+}
+
+p {
+  color: var(--text-secondary);
+}
+
+hr {
+  border: 1px solid var(--outline-color);
+}
+
+button {
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+  box-shadow: none;
+  margin: none;
+  padding: none;
+  transition: background-color 0.2s ease-out;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: var(--primary-color);
+}

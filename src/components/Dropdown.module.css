@@ -1,0 +1,41 @@
+.dropdown {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  --dropdown-width: 12rem;
+}
+
+.dropdown:hover .content {
+  display: block;
+}
+
+.dropdownButton {
+  display: flex;
+  gap: 0.5rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  padding: 0.5rem;
+  align-items: center;
+  background-color: none;
+  transition: 0.1s ease-out;
+  height: 1rem;
+}
+
+.dropdownButton:hover {
+  cursor: pointer;
+}
+
+.dropdownButton img {
+  width: 17px;
+}
+
+.dropdown .content {
+  display: none;
+  position: absolute;
+  top: 2rem;
+  right: 0px;
+  background-color: var(--background-color);
+  outline: 1px solid var(--outline-color);
+  width: var(--dropdown-width);
+  padding: 1.2rem;
+}
