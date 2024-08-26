@@ -10,6 +10,7 @@
 .aboutmeContainer img {
   outline: 1px solid var(--outline-color);
   border-radius: 8px;
+  max-width: 100%;
 }
 
 .profile img {
