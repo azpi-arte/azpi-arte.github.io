@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import styles from "./Aboutme.module.css";
 import id from "../assets/images/aboutme/id-card.png";
 import aboutme1 from "../assets/images/aboutme/aboutme1.jpg";

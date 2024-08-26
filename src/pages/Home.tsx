@@ -8,8 +8,10 @@ import linkedin from "..//assets/icons/linkedin.svg";
 import img1 from "../assets/images/home/todo.png";
 import img2 from "../assets/images/home/instone.jpg";
 import img3 from "../assets/images/home/dragon.jpg";
+import { useNavigate } from "react-router-dom";
 
 const Home = () => {
+  // const navigate = useNavigate();
   return (
     <div className={styles.homepageContainer}>
       <section className={styles.hero}>
