@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.352aebc1.css",
-    "main.js": "/static/js/main.ab498184.js",
+    "main.js": "/static/js/main.1c708ccb.js",
     "static/media/FlowSketch.jpeg": "/static/media/FlowSketch.3fd73e405aeca29e6434.jpeg",
     "static/media/asymptote.mp3": "/static/media/asymptote.7f2cf254ba3238cc66dd.mp3",
     "static/media/Aquatica-Maravillosa.jpg": "/static/media/Aquatica-Maravillosa.74e82407ae311039f920.jpg",
@@ -45,10 +45,10 @@
     "static/media/x-icon.svg": "/static/media/x-icon.ce1296b4a7bfa17b79232eb0854502c4.svg",
     "static/media/webdev.svg": "/static/media/webdev.fbec509433086b0fda70afcbc251f4a1.svg",
     "main.352aebc1.css.map": "/static/css/main.352aebc1.css.map",
-    "main.ab498184.js.map": "/static/js/main.ab498184.js.map"
+    "main.1c708ccb.js.map": "/static/js/main.1c708ccb.js.map"
   },
   "entrypoints": [
     "static/css/main.352aebc1.css",
-    "static/js/main.ab498184.js"
+    "static/js/main.1c708ccb.js"
   ]
 }
