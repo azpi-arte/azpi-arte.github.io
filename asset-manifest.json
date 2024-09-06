@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3bc787d.css",
-    "main.js": "/static/js/main.99dd6998.js",
+    "main.css": "/static/css/main.352aebc1.css",
+    "main.js": "/static/js/main.ab498184.js",
     "static/media/FlowSketch.jpeg": "/static/media/FlowSketch.3fd73e405aeca29e6434.jpeg",
     "static/media/asymptote.mp3": "/static/media/asymptote.7f2cf254ba3238cc66dd.mp3",
+    "static/media/Aquatica-Maravillosa.jpg": "/static/media/Aquatica-Maravillosa.74e82407ae311039f920.jpg",
+    "static/media/anger.jpg": "/static/media/anger.6f74296449ab9362821b.jpg",
+    "static/media/final-twisted.jpg": "/static/media/final-twisted.7b37b9c1fb363a5f9255.jpg",
+    "static/media/Dragon-Core.jpg": "/static/media/Dragon-Core.7a0a1a561cc8d7d3814e.jpg",
     "static/media/friends.jpg": "/static/media/friends.8f1663713e52ff2595ed.jpg",
+    "static/media/In-Her-Heart.jpg": "/static/media/In-Her-Heart.cdf8669b439af9b86a64.jpg",
     "static/media/aboutme2.jpg": "/static/media/aboutme2.eb1aa15cbbdd32516108.jpg",
+    "static/media/Bat_Wing_Girl.jpg": "/static/media/Bat_Wing_Girl.78d3c41cf288aa78d2ea.jpg",
     "static/media/dragon.jpg": "/static/media/dragon.5555ebcfdfe5dd9cf9c9.jpg",
+    "static/media/purple-demon-girl.jpg": "/static/media/purple-demon-girl.fdd100218cc2f58f5e06.jpg",
+    "static/media/Sailor-Moon-Zombie.jpg": "/static/media/Sailor-Moon-Zombie.f4e16ad6c22afa3a8208.jpg",
     "static/media/aboutme1.jpg": "/static/media/aboutme1.73c19243b4d593a97b9d.jpg",
+    "static/media/Aztec-Warrior-Woman.jpg": "/static/media/Aztec-Warrior-Woman.88689ae751f3ca0527ba.jpg",
     "static/media/drawing1.jpg": "/static/media/drawing1.b11820705f35e9c13e35.jpg",
     "static/media/id-card.png": "/static/media/id-card.6ab057b3333d5ae3e130.png",
     "static/media/DesignDescription.jpeg": "/static/media/DesignDescription.18394e6889a7046b7090.jpeg",
@@ -30,13 +39,16 @@
     "static/media/caret-down.svg": "/static/media/caret-down.eb68e1a9baa012ed3bbbf6f1ee2c0cac.svg",
     "static/media/portfolio.svg": "/static/media/portfolio.f65ed96be57fab03c59fb0cb9909ae29.svg",
     "index.html": "/index.html",
+    "static/media/right-arrow.svg": "/static/media/right-arrow.e33fa3e5442fafa9b19bb5a8edd353ed.svg",
+    "static/media/left-arrow.svg": "/static/media/left-arrow.cb15bed6880791ddf5c287c88435ed49.svg",
     "static/media/handshake.svg": "/static/media/handshake.3db15a3c382966e9a23ecd207fa32782.svg",
+    "static/media/x-icon.svg": "/static/media/x-icon.ce1296b4a7bfa17b79232eb0854502c4.svg",
     "static/media/webdev.svg": "/static/media/webdev.fbec509433086b0fda70afcbc251f4a1.svg",
-    "main.e3bc787d.css.map": "/static/css/main.e3bc787d.css.map",
-    "main.99dd6998.js.map": "/static/js/main.99dd6998.js.map"
+    "main.352aebc1.css.map": "/static/css/main.352aebc1.css.map",
+    "main.ab498184.js.map": "/static/js/main.ab498184.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3bc787d.css",
-    "static/js/main.99dd6998.js"
+    "static/css/main.352aebc1.css",
+    "static/js/main.ab498184.js"
   ]
 }
